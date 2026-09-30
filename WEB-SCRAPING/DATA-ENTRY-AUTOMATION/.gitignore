@@ -1,0 +1,7 @@
+# Ignore full raw dataset and unneeded full excel output
+data/raw_data_business_licenses.csv
+data/cleaned_data_business_licenses.xlsx
+*.csv
+!data/raw_data_sample.csv
+*.xlsx
+!data/cleaned_data_sample.xlsx
